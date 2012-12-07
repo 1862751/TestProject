@@ -25,7 +25,7 @@ namespace TestProject
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, RoutedEventArgs e)
+        private void ololo1_Click(object sender, RoutedEventArgs e)
         {
             ololo.Show();
         }
