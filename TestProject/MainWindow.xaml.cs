@@ -19,9 +19,15 @@ namespace TestProject
     /// </summary>
     public partial class MainWindow : Window
     {
+        public Ololo ololo = new Ololo();
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            ololo.Show();
         }
     }
 }
