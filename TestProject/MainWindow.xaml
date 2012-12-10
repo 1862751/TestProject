@@ -4,7 +4,7 @@
         Title="Test Project" Height="350" Width="525">
     <Grid>
 
-
+        <Button Content="Mygtukas"/>
         <Button Content="Mygtukas" Height="50" HorizontalAlignment="Left" Margin="416,197,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
         <GroupBox Header="buttons" Height="287" HorizontalAlignment="Left" Margin="12,12,0,0" Name="groupBox1" VerticalAlignment="Top" Width="200">
             <Grid Height="262"></Grid>
